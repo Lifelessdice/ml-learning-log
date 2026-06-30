@@ -10,17 +10,18 @@ Prepare the local AI/ML learning environment and begin Python/data foundations.
 
 - Python: installed and verified.
 - VS Code: installed and verified.
-- Git: not available on PATH yet.
-- GitHub repository: not created yet.
+- Git: installed and verified.
+- GitHub repository: created and pushed.
 - Kaggle: course/account status not verified yet.
+
+Repository: https://github.com/Lifelessdice/ml-learning-log
 
 ## This Week's Tasks
 
-- Install Git.
-- Create a GitHub repository named `ml-learning-log`.
-- Push this learning log to GitHub.
+- Confirm Git is available in new terminal sessions.
 - Start Kaggle Python.
 - Complete the first Python exercises.
+- Add notes from the first exercises.
 
 ## Notes
 
@@ -28,4 +29,4 @@ The roadmap focus is applied AI engineering: build visible portfolio artifacts w
 
 ## Next Session
 
-Install Git, initialize this folder as a repository, create the GitHub repo, and make the first commit.
+Start Kaggle Python, complete the first exercise set, and add notes from the course.
