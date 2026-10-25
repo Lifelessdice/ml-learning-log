@@ -1,29 +1,35 @@
 # ML Learning Log
 
-This repository tracks my independent AI/ML learning progress through weekly notes, small exercises, and portfolio project work.
+An independent learning journal documenting **Python and data-analysis foundations** on the way toward applied AI/ML work.
 
-## Current Focus
+This repository records studied concepts and next steps. It currently contains learning notes rather than a finished machine-learning project.
 
-Phase 0: setup and foundations.
+## Recorded progress
 
-Week 1 goals:
+| Stage | Recorded status | Notes |
+| --- | --- | --- |
+| Development setup | Verified in the Week 1 log | Python, VS Code, Git and GitHub |
+| Python foundations | Kaggle Python completion recorded on 6 July 2026 | Syntax, functions, conditionals, lists, loops, strings, dictionaries and imports |
+| Pandas foundations | Introduced in the Week 2 plan | Target lessons are listed; completion is not yet recorded |
 
-- Verify Python and editor setup.
-- Install Git and create the GitHub repository.
-- Start the Kaggle Python course.
-- Write the first weekly learning log.
+## Learning entries
 
-## Structure
+- [Week 1 — Setup and Python foundations](weeks/week-01.md)
+- [Week 2 — Pandas foundations](weeks/week-02.md)
 
-```text
-ml-learning-log/
-  README.md
-  weeks/
-    week-01.md
-  notes/
-  mini-projects/
-```
+## Topics in the Python log
 
-## Roadmap
+- Variables, numbers and arithmetic
+- Functions, parameters, return values and `help()`
+- Booleans and conditional logic
+- Lists, indexing, slicing and mutation
+- Loops, `range()` and comprehensions
+- Strings, dictionaries and imports
 
-The active roadmap is maintained separately in `ai-ml-roadmap-sem`.
+## Next recorded steps
+
+1. Work through the Kaggle Pandas lessons listed in Week 2.
+2. Add concrete examples and notes after each lesson.
+3. Build small, reproducible exercises as the foundations develop.
+
+The broader learning roadmap is maintained separately. Planned exercises and projects will be added here as they are completed.
